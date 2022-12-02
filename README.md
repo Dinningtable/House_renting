@@ -1,5 +1,5 @@
 # House_renting
-Read and write all instance in local repository.
+Read and write all instances in local repository.
 
 
 Enviroment:
